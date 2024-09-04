@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying MCA from NIT Kurukshetra
+I'm currently pursuing a Master of Computer Applications (MCA) at NIT Kurukshetra, where I'm diving deep into the world of technology and software development.
 
 
 ## 🌐 Socials:
